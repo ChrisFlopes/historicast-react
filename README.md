@@ -1,4 +1,3 @@
-````markdown
 # Historicast React APP
 
 Welcome to the Historicast React App! This application allows you to explore historical data in an interactive way.
